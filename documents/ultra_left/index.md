@@ -20,3 +20,17 @@
 **Endnotes 4: Unity in Separation**
 
 **Endnotes 5: The Passions and the Interests** - Endnotes
+
+## *Further reading*
+
+**Théorie Communiste Reader** - Théorie Communiste
+
+**The Coming Insurrection** - The Invisible Committee
+
+**The Suspended Step of Communisation** -SIC INTERNATIONAL JOURNAL FOR COMMUNISATION
+
+**SIC no. 1** - SIC INTERNATIONAL JOURNAL FOR COMMUNISATION
+
+**Value and Its Abolition** - Bruno Astarian
+
+**A World Without Money: Communism** - The Friends of 4 Million Young Workers
