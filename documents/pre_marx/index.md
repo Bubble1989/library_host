@@ -6,7 +6,7 @@
 **The Phenomenology of Spirit** - Hegel
 **Elements of the Philosophy of Right** - Hegel
 ### *Ludwig Feuerbach*
-**The Essence of Christianity ** - Feuerbach
+**The Essence of Christianity** - Feuerbach
 **Principles of the Philosophy of the Future: Index** - Feuerbach
 ### *Immanuel Kant:*
 **Idea for a Universal History from a Cosmopolitan Point of View** - Kant
@@ -27,4 +27,4 @@ Kant, **Essays**
 ### *Gracchus Babeuf*
 **Manifesto of the Equals** - Babeuf
 
-[⬅ Back](../../index.md)
+[<< Back](../../index.md)
