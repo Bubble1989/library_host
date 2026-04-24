@@ -6,15 +6,9 @@ Welcome! Browse the collection:
 
 ## Categories
 
-- [Articles](documents/articles/)
-- [Reports](documents/reports/)
-- [Notes](documents/notes/)
-- [Books](documents/books/)
-
----
-
-## Featured
-
-- [Introduction to AI](documents/articles/ai.md)
-- [Annual Report 2025](documents/reports/annual-2025.pdf)
-- [Ideas](documents/notes/ideas.md)
+- [Pre Marx](documentspre_marx/)
+- [Marx & Engels](documents/marx_engels/)
+- [Bolshiviks](documents/bolshiviks/)
+- [Left Comminsim](documents/left_communsim/)
+- [Ultra Left](documents/ultra_left/)
+- [Anarchism](documents/anarchism/)
