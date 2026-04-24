@@ -1,4 +1,4 @@
-# My Digital Library
+# Library
 
 Welcome! Browse the collection:
 
