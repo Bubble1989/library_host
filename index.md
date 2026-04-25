@@ -13,7 +13,7 @@ Welcome! Browse the collection:
 - [Western Marxism](documents/western_marxism/index.md)
 - [Frankfurt School & Critical Theory](documents/frankfurt_school/index.md)
 - [Structural Marxism](documents/structural_marxism/index.md)
-- [Post-Structuralism & Post-Marxism](documents/post_structuralism/index.md)
+- [Post-Structuralism](documents/post_structuralism/index.md)
 - [Autonomism & Operaismo](documents/autonomism/index.md)
 - [Communization Theory](documents/communization/index.md)
 - [Left Communism](documents/left_communism/index.md)
